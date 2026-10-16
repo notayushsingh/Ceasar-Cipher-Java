@@ -67,6 +67,7 @@ Replace CeaserCipher with your actual java class name if it differs.
 
 ## License ##
 This project is licensed under the MIT License. 
+
 Feel free to modify and use the code as per your needs.
 
 ## 🚀Future Improvements ##
